@@ -38,9 +38,6 @@
 * location
 * No.rooms
 
-# Entity Relationship Diagram
-![](./assets/ERD-Entities.png)
-
 # Tables 
 ![](./assets/v.drawio.png)
 
